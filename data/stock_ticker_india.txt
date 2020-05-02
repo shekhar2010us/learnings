@@ -1,0 +1,493 @@
+AEGIS LOGISTICS Ltd,AEGISLOG,Oil Marketing & Distribution
+AMARA RAJA BATTERIES Ltd,AMARAJABAT,Auto Parts & Equipment
+HOUSING DEVELOPMENT FINANCE CORP.Ltd,HDFC,Housing Finance 
+BOMBAY DYEING & MFG.CO.Ltd,BOMDYEING,Textiles
+ATUL Ltd,ATUL,Specialty Chemicals
+BAJAJ ELECTRICALS Ltd,BAJAJELEC,Household Appliances
+FORCE MOTORS Ltd,FORCEMOT,Cars & Utility Vehicles
+Bajaj Finance Limited,BAJFINANCE,Finance
+BALRAMPUR CHINI MILLS Ltd,BALRAMCHIN,Sugar
+CENTURY TEXTILES & INDUSTRIES Ltd,CENTURYTEX,Cement & Cement Products
+BASF INDIA Ltd,BASF,Specialty Chemicals
+BATA INDIA Ltd,BATAINDIA,Footwear
+BEML Ltd,BEML,Commercial Vehicles
+BHARAT ELECTRONICS Ltd,BEL,Defence
+BLUE STAR Ltd,BLUESTARCO,Consumer Electronics
+CESC Ltd,CESC,Electric Utilities
+CHAMBAL FERTILISERS & CHEMICALS Ltd,CHAMBLFERT,Fertilizers
+EXIDE INDUSTRIES Ltd,EXIDEIND,Auto Parts & Equipment
+CIPLA Ltd,CIPLA,Pharmaceuticals
+CRISIL Ltd,CRISIL,Other Financial Services
+DABUR INDIA Ltd,DABUR,Personal Products
+ARVIND Ltd,ARVIND,Textiles
+BHARAT HEAVY ELECTRICALS Ltd,BHEL,Heavy Electrical Equipment
+HINDUSTAN PETROLEUM CORPORATION Ltd,HINDPETRO,Refineries/ Petro-Products
+IFCI Ltd,IFCI,Financial Institutions
+MANGALORE REFINERY & PETROCHEMICALS Ltd,MRPL,Refineries/ Petro-Products
+CHENNAI PETROLEUM CORPORATION Ltd,CHENNPETRO,Refineries/ Petro-Products
+RELIANCE CAPITAL Ltd,RELCAPITAL,Finance (including NBFCs)
+STATE BANK OF INDIA,SBIN,Banks
+STEEL AUTHORITY OF INDIA Ltd,SAIL,Iron & Steel/Interm.Products
+Titan Company Limited,TITAN,Other Apparels & Accessories
+IDBI BANK Ltd,IDBI,Banks
+DR.REDDY&#39;S LABORATORIES Ltd,DRREDDY,Pharmaceuticals
+E.I.D.-PARRY (INDIA) Ltd,EIDPARRY,Sugar
+Procter & Gamble Health Ltd,PGHL,Pharmaceuticals
+ESSEL PROPACK Ltd,ESSELPRO,Containers & Packaging
+FINOLEX CABLES Ltd,FINCABLES,Other Elect.Equip./ Prod.
+UFLEX Ltd,UFLEX,Containers & Packaging
+GODFREY PHILLIPS INDIA Ltd,GODFRYPHLP,Cigarettes-Tobacco Products
+GODREJ INDUSTRIES Ltd,GODREJIND,Commodity Chemicals
+KANSAI NEROLAC PAINTS Ltd,KANSAINER,Furniture-Furnishing-Paints
+GHCL Ltd,GHCL,Commodity Chemicals
+HDFC Bank Ltd,HDFCBANK,Banks
+HERO MOTOCORP Ltd,HEROMOTOCO,2/3 Wheelers
+HFCL Ltd,HFCL,Telecom Cables
+Himadri Speciality Chemical Ltd,HSCL,Specialty Chemicals
+HINDUSTAN ZINC Ltd,HINDZINC,Zinc
+INFOSYS Ltd,INFY,IT Consulting & Software
+JSW STEEL Ltd,JSWSTEEL,Iron & Steel/Interm.Products
+KAJARIA CERAMICS Ltd,KAJARIACER,Furniture-Furnishing-Paints
+WHIRLPOOL OF INDIA Ltd,WHIRLPOOL,Consumer Electronics
+KOTAK MAHINDRA BANK Ltd,KOTAKBANK,Banks
+TRENT Ltd,TRENT,Specialty Retail
+LAKSHMI MACHINE WORKS Ltd,LAXMIMACH,Industrial Machinery
+LIC HOUSING FINANCE Ltd,LICHSGFIN,Housing Finance 
+LUPIN Ltd,LUPIN,Pharmaceuticals
+The Ramco Cements Limited,RAMCOCEM,Cement & Cement Products
+MAHARASHTRA SEAMLESS Ltd,MAHSEAMLES,Construction & Engineering
+MAHARASHTRA SCOOTERS Ltd,MAHSCOOTER,Investment Companies
+Max Financial Services Ltd,MFSL,Life Insurance
+SPICEJET Ltd,SPICEJET,Airlines
+MRF Ltd,MRF,Auto Tyres & Rubber Products
+HEIDELBERGCEMENT INDIA Ltd,HEIDELBERG,Cement & Cement Products
+NCC Limited,NCC,Construction & Engineering
+Vedanta Limited,VEDL,Aluminium
+GRASIM INDUSTRIES Ltd,GRASIM,Cement & Cement Products
+PIRAMAL ENTERPRISES Ltd,PEL,Pharmaceuticals
+OIL AND NATURAL GAS CORPORATION Ltd,ONGC,Exploration & Production
+RELIANCE INDUSTRIES Ltd,RELIANCE,Integrated Oil & Gas
+RAYMOND Ltd,RAYMOND,Textiles
+PIDILITE INDUSTRIES Ltd,PIDILITIND,Specialty Chemicals
+BIRLA CORPORATION Ltd,BIRLACORPN,Cement & Cement Products
+Prism Johnson Ltd,PRSMJOHNSN,Cement & Cement Products
+Rain Industries Ltd,RAIN,Petrochemicals
+RALLIS INDIA Ltd,RALLIS,Agrochemicals
+JINDAL SAW Ltd,JINDALSAW,Construction & Engineering
+JK LAKSHMI CEMENT Ltd,JKLAKSHMI,Cement & Cement Products
+SHREE CEMENT Ltd,SHREECEM,Cement & Cement Products
+TATA POWER CO.Ltd,TATAPOWER,Electric Utilities
+SUNDRAM FASTENERS Ltd,SUNDRMFAST,Auto Parts & Equipment
+TATA ELXSI Ltd,TATAELXSI,IT Software Products
+ACC Ltd,ACC,Cement & Cement Products
+THERMAX Ltd,THERMAX,Heavy Electrical Equipment
+TORRENT PHARMACEUTICALS Ltd,TORNTPHARM,Pharmaceuticals
+AMBUJA CEMENTS Ltd,AMBUJACEM,Cement & Cement Products
+HINDALCO INDUSTRIES Ltd,HINDALCO,Aluminium
+PROCTER & GAMBLE HYGIENE & HEALTH CARE Ltd,PGHH,Personal Products
+FEDERAL BANK Ltd,FEDERALBNK,Banks
+TATA STEEL Ltd,TATASTEEL,Iron & Steel/Interm.Products
+SKF India Ltd,SKFINDIA,Other Industrial Goods
+ASHOK LEYLAND Ltd,ASHOKLEY,Commercial Vehicles
+CUMMINS INDIA Ltd,CUMMINSIND,Industrial Machinery
+ABBOTT INDIA Ltd,ABBOTINDIA,Pharmaceuticals
+BAJAJ HOLDINGS & INVESTMENT Ltd,BAJAJHLDNG,Holding Companies
+BHARAT FORGE Ltd,BHARATFORG,Other Industrial Products
+ESCORTS Ltd,ESCORTS,Commercial Vehicles
+LARSEN & TOUBRO Ltd,LT,Construction & Engineering
+MAHINDRA & MAHINDRA Ltd,M&M,Cars & Utility Vehicles
+BOSCH Ltd,BOSCHLTD,Auto Parts & Equipment
+BHARAT PETROLEUM CORPORATION Ltd,BPCL,Refineries/ Petro-Products
+SIEMENS Ltd,SIEMENS,Heavy Electrical Equipment
+TATA MOTORS Ltd,TATAMOTORS,Commercial Vehicles
+VOLTAS Ltd,VOLTAS,Consumer Electronics
+GREAT EASTERN SHIPPING CO.Ltd,GESHIP,Shipping
+DEEPAK FERTILISERS & PETROCHEMICALS CORPORATION Ltd,DEEPAKFERT,Commodity Chemicals
+GLAXOSMITHKLINE PHARMACEUTICALS Ltd,GLAXO,Pharmaceuticals
+GUJARAT NARMADA VALLEY FERTILIZERS & CHEMICALS Ltd,GNFC,Fertilizers
+Sanofi India Ltd,SANOFI,Pharmaceuticals
+PFIZER Ltd,PFIZER,Pharmaceuticals
+GUJARAT STATE FERTILIZERS & CHEMICALS Ltd,GSFC,Fertilizers
+HINDUSTAN UNILEVER Ltd,HINDUNILVR,Personal Products
+Akzo Nobel India Limited,AKZOINDIA,Furniture-Furnishing-Paints
+NOCIL Ltd,NOCIL,Specialty Chemicals
+TATA CHEMICALS Ltd,TATACHEM,Commodity Chemicals
+NESTLE INDIA Ltd,NESTLEIND,Packaged Foods
+Tata Consumer Products Ltd,TATACONSUM,Tea & Coffee
+ASIAN PAINTS Ltd,ASIANPAINT,Furniture-Furnishing-Paints
+BRITANNIA INDUSTRIES Ltd,BRITANNIA,Packaged Foods
+COLGATE-PALMOLIVE (INDIA) Ltd,COLPAL,Personal Products
+EIH Ltd,EIHOTEL,Hotels
+INDIAN HOTELS CO.Ltd,INDHOTEL,Hotels
+CASTROL INDIA Ltd,CASTROLIND,Oil Marketing & Distribution
+ITC Ltd,ITC,Cigarettes-Tobacco Products
+APOLLO TYRES Ltd,APOLLOTYRE,Auto Tyres & Rubber Products
+CEAT Ltd,CEATLTD,Auto Tyres & Rubber Products
+FINOLEX INDUSTRIES Ltd,FINOLEXIND,Plastic Products
+CENTRUM CAPITAL Ltd,CENTRUM,Other Financial Services
+TATA INVESTMENT CORPORATION Ltd,TATAINVEST,Holding Companies
+BOMBAY BURMAH TRADING CORP.Ltd,BBTC,Tea & Coffee
+GREAVES COTTON Ltd,GREAVESCOT,Industrial Machinery
+BALKRISHNA INDUSTRIES Ltd,BALKRISIND,Auto Tyres & Rubber Products
+VARDHMAN TEXTILES Ltd,VTL,Textiles
+The Phoenix Mills Ltd,PHOENIXLTD,Realty
+SWAN ENERGY Ltd,SWANENERGY,Textiles
+SRF Ltd,SRF,Diversified
+ZENSAR TECHNOLOGIES Ltd,ZENSARTECH,IT Consulting & Software
+Cholamandalam Financial Holdings Ltd,CHOLAHLDNG,Holding Companies
+EICHER MOTORS Ltd,EICHERMOT,2/3 Wheelers
+NESCO Ltd,NESCO,Misc.Commercial Services
+RESPONSIVE INDUSTRIES Ltd,RESPONIND,Furniture-Furnishing-Paints
+WESTLIFE DEVELOPMENT Ltd,WESTLIFE,Restaurants
+ZEE ENTERTAINMENT ENTERPRISES Ltd,ZEEL,Broadcasting & Cable TV
+IFB INDUSTRIES Ltd,IFBIND,Household Appliances
+Schaeffler India Ltd,SCHAEFFLER,Industrial Machinery
+GRINDWELL NORTON Ltd,GRINDWELL,Other Industrial Products
+BLISS GVS PHARMA Ltd,BLISSGVS,Pharmaceuticals
+BAYER CROPSCIENCE Ltd,BAYERCROP,Agrochemicals
+COROMANDEL INTERNATIONAL Ltd,COROMANDEL,Fertilizers
+DEEPAK NITRITE Ltd,DEEPAKNI,Commodity Chemicals
+PHILLIPS CARBON BLACK Ltd,PHILIPCARB,Carbon Black
+SUDARSHAN CHEMICAL INDUSTRIES Ltd,SUDARSCHEM,Specialty Chemicals
+ASTRAZENECA PHARMA INDIA Ltd,ASTRAZEN,Pharmaceuticals
+J.B.CHEMICALS & PHARMACEUTICALS Ltd,JBCHEPHARM,Pharmaceuticals
+WIPRO Ltd,WIPRO,IT Consulting & Software
+GILLETTE INDIA Ltd,GILLETTE,Personal Products
+V.I.P.INDUSTRIES Ltd,VIPIND,Other Apparels & Accessories
+APOLLO HOSPITALS ENTERPRISE Ltd,APOLLOHOSP,Healthcare Facilities
+TVS SRICHAKRA Ltd,TVSSRICHAK,Auto Tyres & Rubber Products
+BERGER PAINTS INDIA Ltd,BERGEPAINT,Furniture-Furnishing-Paints
+GRAPHITE INDIA Ltd,GRAPHITE,Other Industrial Goods
+ITD CEMENTATION INDIA Ltd,ITDCEM,Construction & Engineering
+Garware Technical Fibres Ltd,GARFIBRES,Textiles
+HEG Ltd,HEG,Other Industrial Goods
+SUPREME INDUSTRIES Ltd,SUPREMEIND,Plastic Products
+VST INDUSTRIES Ltd,VSTIND,Cigarettes-Tobacco Products
+DEWAN HOUSING FINANCE CORPORATION Ltd,DHFL,Housing Finance 
+CAN FIN HOMES Ltd,CANFINHOME,Housing Finance 
+SHRIRAM TRANSPORT FINANCE CO.Ltd,SRTRANSFIN,Finance (including NBFCs)
+Cholamandalam Investment and Finance Company Ltd,CHOLAFIN,Finance (including NBFCs)
+Vakrangee Limited,VAKRANGEE,Specialty Retail
+GIC HOUSING FINANCE Ltd,GICHSGFIN,Housing Finance 
+UPL Limited,UPL,Agrochemicals
+SUNTECK REALTY Ltd,SUNTECK,Realty
+JAI CORP Ltd,JAICORPLTD,Iron & Steel/Interm.Products
+AVANTI FEEDS Ltd,AVANTI,Other Food Products
+ADANI ENTERPRISES Ltd,ADANIENT,Comm.Trading  & Distribution
+NAVA BHARAT VENTURES Ltd,NBVENTURES,Electric Utilities
+CARBORUNDUM UNIVERSAL Ltd,CARBORUNIV,Other Industrial Products
+MMTC Ltd,MMTC,Comm.Trading  & Distribution
+TATA METALIKS Ltd,TATAMETALI,Iron & Steel/Interm.Products
+HINDUSTAN COPPER Ltd,HINDCOPPER,Copper
+NLC India Ltd,NLCINDIA,Electric Utilities
+HIMATSINGKA SEIDE Ltd,HIMATSEIDE,Textiles
+WELSPUN INDIA Ltd,WELSPUNIND,Textiles
+HONEYWELL AUTOMATION INDIA Ltd,HONAUT,Other Elect.Equip./ Prod.
+MOTHERSON SUMI SYSTEMS Ltd,MOTHERSUMI,Auto Parts & Equipment
+HAVELLS INDIA Ltd,HAVELLS,Other Elect.Equip./ Prod.
+Symphony Limited,SYMPHONY,Consumer Electronics
+TTK PRESTIGE Ltd,TTKPRESTIG,Houseware
+KEI INDUSTRIES Ltd,KEI,Other Elect.Equip./ Prod.
+Heritage Foods Limited,HERITGFOOD,Packaged Foods
+CCL PRODUCTS (INDIA) Ltd,CCL,Tea & Coffee
+JAMNA AUTO INDUSTRIES Ltd,JAMNAAUTO,Auto Parts & Equipment
+RATNAMANI METALS & TUBES Ltd,RATNAMANI,Construction & Engineering
+TRIDENT Ltd,TRIDENT,Textiles
+TIMKEN INDIA Ltd,TIMKEN,Industrial Machinery
+GE T&D India Ltd,GET&D,Electric Utilities
+KALPATARU POWER TRANSMISSION Ltd,KALPATPOWR,Heavy Electrical Equipment
+VENKY&#39;S (INDIA) Ltd,VENKYS,Packaged Foods
+BALMER LAWRIE & CO.Ltd,BALMLAWRIE,Diversified
+DCM Shriram Limited,DCMSHRIRAM,Diversified
+NILKAMAL Ltd,NILKAMAL,Plastic Products
+3M INDIA Ltd,3MINDIA,Diversified
+Johnson Controls-Hitachi Air Conditioning India Ltd,JCHAC,Consumer Electronics
+JM FINANCIAL Ltd,JMFINANCIL,Holding Companies
+Linde India Limited,LINDEINDIA,Industrial Gases
+SHIPPING CORPORATION OF INDIA Ltd,SCI,Shipping
+ITI Ltd,ITI,Telecom Equipment
+PI Industries Ltd,PIIND,Agrochemicals
+MAGMA FINCORP Ltd,MAGMA,Finance (including NBFCs)
+VINATI ORGANICS Ltd,VINATIORGA,Commodity Chemicals
+AARTI INDUSTRIES Ltd,AARTIIND,Specialty Chemicals
+RASHTRIYA CHEMICALS & FERTILIZERS Ltd,RCF,Fertilizers
+IPCA LABORATORIES Ltd,IPCALAB,Pharmaceuticals
+SUN PHARMACEUTICAL INDUSTRIES Ltd,SUNPHARMA*,Pharmaceuticals
+CAPLIN POINT LABORATORIES Ltd,CAPPL,Pharmaceuticals
+AUROBINDO PHARMA Ltd,AUROPHARMA,Pharmaceuticals
+NATCO PHARMA Ltd,NATCOPHARM,Pharmaceuticals
+MPHASIS Ltd,MPHASIS,IT Consulting & Software
+NMDC Ltd,NMDC,Mining
+BLUE DART EXPRESS Ltd,BLUEDART,Transportation - Logistics
+LA OPALA RG Ltd,LAOPALA,Houseware
+GUJARAT ALKALIES & CHEMICALS Ltd,GUJALKALI,Commodity Chemicals
+INDIA CEMENTS Ltd,INDIACEM,Cement & Cement Products
+JK TYRE & INDUSTRIES Ltd,JKTYRE,Auto Tyres & Rubber Products
+JUBILANT LIFE SCIENCES LIMITED,JUBILANT,Pharmaceuticals
+RELAXO FOOTWEARS Ltd,RELAXO,Footwear
+SHILPA MEDICARE Ltd,SHILPAMED,Pharmaceuticals
+KRBL Ltd,KRBL,Packaged Foods
+INDIAN OIL CORPORATION Ltd,IOC,Oil Marketing & Distribution
+EMAMI Ltd,EMAMILTD*,Personal Products
+MANAPPURAM FINANCE Ltd,MANAPPURAM,Finance (including NBFCs)
+ZYDUS WELLNESS Ltd,ZYDUSWELL,Packaged Foods
+CONTAINER CORPORATION OF INDIA Ltd,CONCOR,Transport Related Services
+TAMIL NADU NEWSPRINT & PAPERS Ltd,TNPL,Paper & Paper Products
+RAJESH EXPORTS Ltd,RAJESHEXPO,Other Apparels & Accessories
+HATSUN AGRO PRODUCT Ltd,HATSUN,Packaged Foods
+SOMANY CERAMICS Ltd,SOMANYCERA,Furniture-Furnishing-Paints
+Capri Global Capital Limited,CGCL,Finance (including NBFCs)
+FDC Ltd,FDC,Pharmaceuticals
+MARICO Ltd,MARICO,Personal Products
+HEXAWARE TECHNOLOGIES Ltd,HEXAWARE,IT Consulting & Software
+BANK OF BARODA,BANKBARODA,Banks
+Welspun Corp Limited,WELCORP,Construction & Engineering
+BANK OF INDIA,BANKINDIA,Banks
+GAIL (INDIA) Ltd,GAIL,Utilities:Non-Elec.
+Vaibhav Global Ltd,VAIBHAVGBL,Other Apparels & Accessories
+ICICI BANK Ltd,ICICIBANK,Banks
+Cyient Limited,CYIENT,IT Consulting & Software
+ENGINEERS INDIA Ltd,ENGINERSIN,Consulting Services
+GUJARAT MINERAL DEVELOPMENT CORPORATION Ltd,GMDCLTD,Coal
+INDUSIND BANK Ltd,INDUSINDBK,Banks
+INDIA TOURISM DEVELOPMENT CORPORATION Ltd,ITDC,Hotels
+JAMMU & KASHMIR BANK Ltd,J&KBANK,Banks
+CITY UNION BANK Ltd,CUB,Banks
+AXIS BANK Ltd,AXISBANK,Banks
+SOUTH INDIAN BANK Ltd,SOUTHBANK,Banks
+SONATA SOFTWARE Ltd,SONATSOFTW,IT Consulting & Software
+NATIONAL ALUMINIUM CO.Ltd,NATIONALUM,Aluminium
+HCL TECHNOLOGIES Ltd,HCLTECH,IT Consulting & Software
+JINDAL STEEL & POWER Ltd,JINDALSTEL,Iron & Steel/Interm.Products
+GLENMARK PHARMACEUTICALS Ltd,GLENMARK,Pharmaceuticals
+WOCKHARDT Ltd,WOCKPHARMA,Pharmaceuticals
+TATA COFFEE Ltd,TATACOFFEE,Tea & Coffee
+GE Power India Ltd,GEPIL,Heavy Electrical Equipment
+MAHINDRA LIFESPACE DEVELOPERS Ltd,MAHLIFE,Realty
+CADILA HEALTHCARE Ltd,CADILAHC,Pharmaceuticals
+AJANTA PHARMA Ltd,AJANTPHARM,Pharmaceuticals
+TVS MOTOR COMPANY Ltd,TVSMOTOR,2/3 Wheelers
+STERLITE TECHNOLOGIES Ltd,STRTECH*,Other Telecom Services
+INDIAN OVERSEAS BANK,IOB,Banks
+Birlasoft Ltd,BSOFT,IT Consulting & Software
+GODREJ CONSUMER PRODUCTS Ltd,GODREJCP,Personal Products
+CERA SANITARYWARE Ltd,CERA,Furniture-Furnishing-Paints
+BHARTI AIRTEL Ltd,BHARTIARTL,Telecom Services
+PUNJAB NATIONAL BANK,PNB,Banks
+ORACLE FINANCIAL SERVICES SOFTWARE Ltd,OFSS,IT Consulting & Software
+UNION BANK OF INDIA,UNIONBANK,Banks
+UNITED BREWERIES Ltd,UBL,Breweries & Distilleries
+GRANULES INDIA Ltd,GRANULES,Pharmaceuticals
+CANARA BANK,CANBK,Banks
+DIVI&#39;S LABORATORIES Ltd,DIVISLAB,Pharmaceuticals
+RADICO KHAITAN Ltd,RADICO,Breweries & Distilleries
+SHRIRAM CITY UNION FINANCE Ltd,SHRIRAMCIT,Finance (including NBFCs)
+MARUTI SUZUKI INDIA Ltd,MARUTI,Cars & Utility Vehicles
+Navin Fluorine International Limited,NAVINFLUOR,Commodity Chemicals
+UCO BANK,UCOBANK,Banks
+JINDAL STAINLESS Ltd,JSL,Iron & Steel/Interm.Products
+SUPRAJIT ENGINEERING Ltd,SUPRAJIT,Auto Parts & Equipment
+INDRAPRASTHA GAS Ltd,IGL,Utilities:Non-Elec.
+TV TODAY NETWORK Ltd,TVTODAY,Broadcasting & Cable TV
+PETRONET LNG Ltd,PETRONET,Oil Marketing & Distribution
+BIOCON Ltd,BIOCON,Biotechnology
+PTC INDIA Ltd,PTC,Electric Utilities
+BANK OF MAHARASHTRA,MAHABANK,Banks
+Strides Pharma Science Ltd,STAR,Pharmaceuticals
+ULTRATECH CEMENT Ltd,ULTRACEMCO,Cement & Cement Products
+MINDA INDUSTRIES Ltd,MINDAIND,Auto Parts & Equipment
+TATA CONSULTANCY SERVICES Ltd,TCS,IT Consulting & Software
+NIIT TECHNOLOGIES Ltd,NIITTECH,IT Consulting & Software
+CENTURY PLYBOARDS (I) Ltd,CENTURYPLY,Forest Products
+NTPC Ltd,NTPC,Electric Utilities
+GATEWAY DISTRIPARKS Ltd,GDL,Transportation - Logistics
+IIFL Finance Ltd,IIFL,Other Financial Services
+SHOPPERS STOP Ltd,SHOPERSTOP,Department Stores
+J.K.CEMENT Ltd,JKCEMENT,Cement & Cement Products
+YES BANK Ltd,YESBANK,Banks
+KARNATAKA BANK Ltd,KTKBANK,Banks
+IDFC LIMITED,IDFC,Finance (including NBFCs)
+SUZLON ENERGY Ltd,SUZLON,Heavy Electrical Equipment
+AIA ENGINEERING Ltd,AIAENG,Other Industrial Goods
+PVR Ltd,PVR,Specialty Retail
+GUJARAT STATE PETRONET Ltd,GSPL,Utilities:Non-Elec.
+JAGRAN PRAKASHAN Ltd,JAGRAN,Publishing
+INOX LEISURE Ltd,INOXLEISUR,Specialty Retail
+SADBHAV ENGINEERING Ltd,SADBHAV,Construction & Engineering
+KEC INTERNATIONAL Ltd,KEC,Heavy Electrical Equipment
+MAHINDRA & MAHINDRA FINANCIAL SERVICES Ltd,M&MFIN,Finance (including NBFCs)
+SOLAR INDUSTRIES INDIA Ltd,SOLARINDS,Specialty Chemicals
+SUN TV NETWORK Ltd,SUNTV,Broadcasting & Cable TV
+ALLCARGO LOGISTICS Ltd,ALLCARGO,Transportation - Logistics
+GMR INFRASTRUCTURE Ltd,GMRINFRA,Airport Services
+TECH MAHINDRA Ltd,TECHM,IT Consulting & Software
+Mahindra CIE Automotive Limited,MAHINDCIE,Other Industrial Products
+GAYATRI PROJECTS Ltd,GAYAPROJ,Construction & Engineering
+DCB Bank Limited,DCBBANK,Banks
+INFO EDGE (INDIA) Ltd,NAUKRI,Internet & Catalogue Retail
+TORRENT POWER Ltd,TORNTPOWER,Electric Utilities
+Sobha Limited,SOBHA,Realty
+NETWORK18 MEDIA & INVESTMENTS Ltd,NETWORK18,Advertising & Media
+TV18 BROADCAST Ltd,TV18BRDCST,Broadcasting & Cable TV
+REDINGTON (INDIA) Ltd,REDINGTON,Comm.Trading  & Distribution
+FIRSTSOURCE SOLUTIONS Ltd,FSL,BPO/KPO
+POWER FINANCE CORPORATION Ltd,PFC,Finance (including NBFCs)
+INDIAN BANK,INDIANB,Banks
+MINDTREE Ltd,MINDTREE,IT Consulting & Software
+Vodafone Idea Ltd,IDEA,Telecom Services
+PAGE INDUSTRIES Ltd,PAGEIND,Other Apparels & Accessories
+ASTRAL POLY TECHNIK Ltd,ASTRAL,Plastic Products
+INDIABULLS REAL ESTATE Ltd,IBREALEST,Realty
+DISH TV INDIA Ltd,DISHTV,Broadcasting & Cable TV
+FORTIS HEALTHCARE Ltd,FORTIS,Healthcare Facilities
+DELTA CORP Ltd,DELTACORP*,Misc.Commercial Services
+TIME TECHNOPLAST Ltd,TIMETECHNO,Plastic Products
+MEGHMANI ORGANICS Ltd,MEGH,Specialty Chemicals
+DLF Ltd,DLF,Realty
+SUN PHARMA ADVANCED RESEARCH COMPANY Ltd,SPARC,Pharmaceuticals
+OMAXE Ltd,OMAXE,Realty
+CENTRAL BANK OF INDIA,CENTRALBK,Banks
+K.P.R. Mill Limited,KPRMILL,Textiles
+TAKE SOLUTIONS Ltd,TAKE,Pharmaceuticals
+MOTILAL OSWAL FINANCIAL SERVICES Ltd,MOTILALOFS*,Finance (including NBFCs)
+POWER GRID CORPORATION OF INDIA Ltd,POWERGRID,Electric Utilities
+ADANI PORTS AND SPECIAL ECONOMIC ZONE Ltd,ADANIPORTS,Marine Port & Services
+Edelweiss Financial Services Ltd,EDELWEISS,Other Financial Services
+Jyothy Labs Ltd,JYOTHYLAB,Household Products
+ECLERX SERVICES Ltd,ECLERX,BPO/KPO
+BRIGADE ENTERPRISES Ltd,BRIGADE,Realty
+RELIANCE POWER Ltd,RPOWER,Electric Utilities
+KNR CONSTRUCTIONS Ltd,KNRCON,Construction & Engineering
+IRB INFRASTRUCTURE DEVELOPERS Ltd,IRB,Roads & Highways
+V-GUARD INDUSTRIES Ltd,VGUARD,Other Elect.Equip./ Prod.
+REC Ltd,RECLTD,Finance (including NBFCs)
+BAJAJ AUTO Ltd,BAJAJ-AUTO,2/3 Wheelers
+BAJAJ FINSERV Ltd,BAJAJFINSV,Holding Companies
+WABCO INDIA Ltd,WABCOINDIA,Auto Parts & Equipment
+MAHINDRA HOLIDAYS & RESORTS INDIA Ltd,MHRIL,Hotels
+ADANI POWER Ltd,ADANIPOWER,Electric Utilities
+NHPC Ltd,NHPC,Electric Utilities
+OIL INDIA Ltd,OIL,Exploration & Production
+JSW Energy Ltd,JSWENERGY,Electric Utilities
+Godrej Properties Ltd,GODREJPROP,Realty
+D B Corp Ltd,DBCORP,Publishing
+Jubilant FoodWorks Ltd,JUBLFOOD,Restaurants
+Hathway Cable & Datacom Ltd,HATHWAY,Broadcasting & Cable TV
+PERSISTENT SYSTEMS Ltd,PERSISTENT,IT Consulting & Software
+SJVN Ltd,SJVN,Electric Utilities
+Bajaj Consumer Care Ltd,BAJAJCON,Personal Products
+GUJARAT PIPAVAV PORT Ltd,GPPL,Marine Port & Services
+VA TECH WABAG Ltd,WABAG,Utilities:Non-Elec.
+ASHOKA BUILDCON Ltd,ASHOKA,Roads & Highways
+OBEROI REALTY Ltd,OBEROIRLTY,Realty
+PRESTIGE ESTATES PROJECTS Ltd,PRESTIGE,Realty
+COAL INDIA Ltd,COALINDIA,Coal
+MOIL Ltd,MOIL,Mining
+MUTHOOT FINANCE Ltd,MUTHOOTFIN,Finance (including NBFCs)
+Future Consumer Ltd,FCONSUMER,Packaged Foods
+L&T FINANCE HOLDINGS Ltd,L&TFH,Holding Companies
+Indiabulls Integrated Services Ltd,IBULISL,Comm.Trading  & Distribution
+ALEMBIC PHARMACEUTICALS Ltd,APLLTD,Pharmaceuticals
+TRIVENI TURBINE Ltd,TRITURBINE,Heavy Electrical Equipment
+APL APOLLO TUBES Ltd,APLAPOLLO,Iron & Steel Products
+MULTI COMMODITY EXCHANGE OF INDIA Ltd,MCX,Investment Companies
+NBCC (India) Ltd,NBCC,Construction & Engineering
+LAKSHMI VILAS BANK Ltd,LAKSHVILAS,Banks
+CARE Ratings Ltd,CARERATING,Other Financial Services
+BHARTI INFRATEL Ltd,INFRATEL,Other Telecom Services
+V-MART RETAIL Ltd,VMART,Department Stores
+REPCO HOME FINANCE Ltd,REPCOHOME,Housing Finance 
+JUST DIAL Ltd,JUSTDIAL,Publishing
+Orient Cement Ltd,ORIENTCEM,Cement & Cement Products
+Aditya Birla Fashion and Retail Ltd,ABFRL,Department Stores
+Indiabulls Housing Finance Ltd,IBULHSGFIN,Housing Finance 
+Future Lifestyle Fashions Ltd,FLFL,Department Stores
+Gulf Oil Lubricants India Ltd,GULFOILLUB,Oil Marketing & Distribution
+Intellect Design Arena Ltd,INTELLECT,IT Software Products
+Minda Corporation Ltd,MINDACORP,Auto Parts & Equipment
+Inox Wind Ltd,INOXWIND,Heavy Electrical Equipment
+VRL Logistics Ltd,VRLLOG,Transportation - Logistics
+PNC Infratech Ltd,PNCINFRA,Roads & Highways
+Adani Transmission Ltd,ADANITRANS,Electric Utilities
+Syngene International Ltd,SYNGENE,Pharmaceuticals
+Gujarat Gas Ltd,GUJGAS,Integrated Oil & Gas
+IDFC First Bank Ltd,IDFCFIRSTB,Banks
+InterGlobe Aviation Ltd,INDIGO,Airlines
+S H Kelkar and Company Ltd,SHK,Personal Products
+Alkem Laboratories Ltd,ALKEM,Pharmaceuticals
+Dr. Lal PathLabs Ltd,LALPATHLAB,Healthcare Services
+Lux Industries Ltd,LUXIND,Other Apparels & Accessories
+Narayana Hrudayalaya Ltd,NH,Healthcare Facilities
+Jindal Stainless (Hisar) Ltd,JSLHISAR,Iron & Steel Products
+TeamLease Services Ltd,TEAMLEASE,Sp.Consumer Services
+Infibeam Avenues Ltd,INFIBEAM,Internet Software & Services
+Equitas Holdings Ltd,EQUITAS,Holding Companies
+Thyrocare Technologies Ltd,THYROCARE,Healthcare Services
+Ujjivan Financial Services Ltd,UJJIVAN,Finance (including NBFCs)
+Crompton Greaves Consumer Electricals Ltd,CROMPTON,Household Appliances
+Parag Milk Foods Ltd,PARAGMILK,Packaged Foods
+Mahanagar Gas Ltd,MGL,Utilities:Non-Elec.
+Quess Corp Ltd,QUESS,Diversified
+Max India Ltd,MAXINDIA,Holding Companies
+Larsen & Toubro Infotech Ltd,LTI,IT Consulting & Software
+Advanced Enzyme Technologies Ltd,ADVENZYMES,Other Agricultural Products
+Dilip Buildcon Ltd,DBL,Roads & Highways
+Future Retail Ltd,FRETAIL,Department Stores
+RBL Bank Ltd,RBLBANK,Banks
+L&T Technology Services Ltd,LTTS,Internet Software & Services
+ICICI Prudential Life Insurance Company Ltd,ICICIPRULI,Life Insurance
+Endurance Technologies Ltd,ENDURANCE,Auto Parts & Equipment
+PNB Housing Finance Ltd,PNBHOUSING,Housing Finance 
+Varun Beverages Ltd,VBL,Non-alcoholic Beverages
+Sheela Foam Ltd,SFL,Furniture-Furnishing-Paints
+TCI Express Ltd,TCIEXP,Transportation - Logistics
+Laurus Labs Ltd,LAURUSLABS,Pharmaceuticals
+Shankara Building Products Ltd,SHANKARA,Iron & Steel Products
+Housing and Urban Development Corporation Ltd,HUDCO,Housing Finance 
+Star Cement Ltd,STARCEMENT,Cement & Cement Products
+Eris Lifesciences Ltd,ERIS,Pharmaceuticals
+AU Small Finance Bank Ltd,AUBANK,Banks
+Security and Intelligence Services (India) Ltd,SIS,Sp.Consumer Services
+Cochin Shipyard Ltd,COCHINSHIP,Shipping
+Aditya Birla Capital Ltd,ABCAPITAL,Holding Companies
+Dixon Technologies (India) Ltd,DIXON,Consumer Electronics
+Dishman Carbogen Amcis Ltd,DCAL*,Pharmaceuticals
+ICICI Lombard General Insurance Company Ltd,ICICIGI,General Insurance
+SBI Life Insurance Company Ltd,SBILIFE,Life Insurance
+Godrej Agrovet Ltd,GODREJAGRO,Other Agricultural Products
+MAS Financial Services Ltd,MASFIN,Finance (including NBFCs)
+Indian Energy Exchange Ltd,IEX,Electric Utilities
+General Insurance Corporation of India,GICRE,General Insurance
+Tube Investments of India Ltd,TIINDIA,Auto Parts & Equipment
+Nippon Life India Asset Management Ltd,NAM-INDIA,Asset Management Cos.
+Mahindra Logistics Ltd,MAHLOG,Transportation - Logistics
+The New India Assurance Company Ltd,NIACL,General Insurance
+HDFC Life Insurance Company Ltd,HDFCLIFE,Life Insurance
+Amber Enterprises India Ltd,AMBER,Consumer Electronics
+Galaxy Surfactants Ltd,GALAXYSURF,Specialty Chemicals
+Aster DM Healthcare Ltd,ASTERDM,Healthcare Services
+Bharat Dynamics Ltd,BDL,Defence
+Bandhan Bank Ltd,BANDHANBNK,Banks
+Hindustan Aeronautics Ltd,HAL,Aerospace
+ICICI Securities Ltd,ISEC,Other Financial Services
+Mishra Dhatu Nigam Ltd,MIDHANI,Iron & Steel Products
+Lemon Tree Hotels Ltd,LEMONTREE,Hotels
+Orient Electric Ltd,ORIENTELEC,Consumer Electronics
+Indostar Capital Finance Ltd,INDOSTAR,Finance (including NBFCs)
+Adani Green Energy Ltd,ADANIGREEN,Heavy Electrical Equipment
+RITES Ltd,RITES,Construction & Engineering
+Fine Organic Industries Ltd,FINEORG,Specialty Chemicals
+Varroc Engineering Ltd,VARROC,Auto Parts & Equipment
+TCNS Clothing Co. Ltd,TCNSBRANDS,Other Apparels & Accessories
+HDFC Asset Management Company Ltd,HDFCAMC,Asset Management Cos.
+CreditAccess Grameen Ltd,CREDITACC,Finance (including NBFCs)
+IRCON International Ltd,IRCON,Construction & Engineering
+AAVAS Financiers Ltd,AAVAS,Housing Finance 
+Adani Gas Ltd,ADANIGAS,Integrated Oil & Gas
+Dalmia Bharat Ltd,DALBHARAT*,Cement & Cement Products
+Arvind Fashions Ltd,ARVINDFASN,Other Apparels & Accessories
+Rail Vikas Nigam Ltd,RVNL,Construction & Engineering
+Metropolis Healthcare Ltd,METROPOLIS,Healthcare Services
+KPIT Technologies Ltd,KPITTECH,Auto Parts & Equipment
+Polycab India Ltd,POLYCAB,Other Elect.Equip./ Prod.
+Tata Motors  Ltd - DVR,TATAMTRDVR,Commercial Vehicles
