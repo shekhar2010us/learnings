@@ -1,59 +1,104 @@
-Visa,V,Finance
-Bank of America,BAC,Finance
-American Express,AXP,Finance
-Wells Fargo,WFC,Finance
-US BankCorp,USB,Finance
-JP Morgan Chase,jpm,Finance
-Citigroup,C,Finance
-Paypal,pypl,Finance
-General Electric,GE,Manufacturing
-Boeing,BA,Manufacturing
-Walmart,wmt,Retail
-Amazon,amzn,Retail
-Overstock,ostk,Retail
-Uber,uber,Travel
-Lyft,LYFT,Travel
-Delta,dal,Travel
-American Airlines,aal,Travel
-Royal Cruise,rcl,Travel
-Norwegian Cruise,nclh,Travel
-United Airlines,UAL,Travel
-Expedia,expe,Travel
-Southwest Airlines,LUV,Travel
-Alaska Air,ALK,Travel
-jetblue air,JBLU,Travel
-Allegiant Travel,ALGT,Travel
-Marriott,MAR,Travel
-Tripadvisor,TRIP,Travel
-Carbival Corp,ccl,Travel
-Travelzoo,TZOO,Travel
-Vegas Sands,LVS,Travel
-Intercontinental Hotels,IHG,Travel
-Wyndham,WYNN,Travel
-Microsoft,msft,Tech
-Apple,aapl,Tech
-Google,googl,Tech
-Alibaba,baba,Tech
-Facebook,fb,Tech
-Zoom,zm,Tech
-Intuit,intu,Tech
-Salesforce,crm,Tech
-Netflix,nflx,Tech
-Nvidia,nvda,Tech
-AMD,amd,Tech
-Cisco,CSCO,Tech
-Splunk,splk,Tech
-Intel,intc,Tech
-Tesla,TSLA,Tech
-Activision,ATVI,tech
-Electronic Arts,ea,Tech
-RingCentral,rng,Tech
-TransDigm,tdg,Aerospace
-Boeing,ba,Aerospace
-Chegg,chgg,Tech
-Okta,okta,Tech
-Pinterest,pins,Tech
-Beyond Meat,bynd,Food
-Square,sq,Finance
-Stitch Fix,sfix,Fashion
-AMC,AMC,Entertainment
+3M,MMM
+Activision,ATVI
+Alaska Air,ALK
+Alibaba,BABA
+Allegiant Travel,ALGT
+Amazon,AMZN
+Amc,AMC
+Amd,AMD
+American Airlines,AAL
+American Express,AXP
+Anheuser Busch,BUD
+Apple,AAPL
+At&T,T
+Bank Of America,BAC
+Berkshire,BRK-B
+Beyond Meat,BYND
+Boeing,BA
+Carbival Corp,CCL
+Caterpillar,CAT
+Chegg,CHGG
+Chevron,CVX
+China Mobile,CHL
+Cisco,CSCO
+Citigroup,C
+Coca Cola,KO
+Darden Restaurants,DRI
+Delta,DAL
+Devon Energy,DVN
+Disney,DIS
+Dollar General,DG
+Dominion Energy,D
+Dominos,DPZ
+Dow Chemical,DOW
+Duke Energy,DUK
+Electronic Arts,EA
+Expedia,EXPE
+Exxon Mobil,XOM
+Facebook,FB
+General Electric,GE
+Goldman Sachs,GS
+Google,GOOGL
+Home Depot,HD
+Huya,HUYA
+Ibm,IBM
+Intel,INTC
+Intercontinental Hotels,IHG
+Intuit,INTU
+Jetblue Air,JBLU
+Johnson & Johnson,JNJ
+Jpmorgan Chase,JPM
+Lyft,LYFT
+Marriott,MAR
+Mcdonald,MCD
+Merck,MRK
+Microsoft,MSFT
+Momo,MOMO
+Netflix,NFLX
+Nike,NKE
+Norwegian Cruise,NCLH
+Novartis,NVS
+Nvidia,NVDA
+Okta,OKTA
+Overstock,OSTK
+Paypal,PYPL
+Pfizer,PFE
+Pinterest,PINS
+Procter & Gamble,PG
+Ringcentral,RNG
+Royal Cruise,RCL
+Royal Dutch Shell,RDS-B
+Salesforce,CRM
+Southwest Airlines,LUV
+Splunk,SPLK
+Square,SQ
+Stitch Fix,SFIX
+T Mobile,TMUS
+Taiwan Semiconductor,TSM
+Tapestry,TPR
+Target,TGT
+Tencent Holdings,TCEHY
+Tesla,TSLA
+Texas Instruments,TXN
+Thermo Fisher,TMO
+Tractor Supply,TSCO
+Transdigm,TDG
+Travelers Companies,TRV
+Travelzoo,TZOO
+Tripadvisor,TRIP
+Twilio,TWLO
+Twitter,TWTR
+Tyson Food,TSN
+Uber,UBER
+United Airlines,UAL
+United Technologies,UTX
+Unitedhealth,UNH
+Us Bankcorp,USB
+Vegas Sands,LVS
+Verizon,VZ
+Visa,V
+Walgreen,WBA
+Walmart,WMT
+Wells Fargo,WFC
+Wyndham,WYNN
+Zoom,ZM
