@@ -15,6 +15,7 @@ Bank Of America,BAC
 Berkshire,BRK-B
 Beyond Meat,BYND
 Boeing,BA
+Blueprint Medicines,BPMC
 Carbival Corp,CCL
 Caterpillar,CAT
 Chegg,CHGG
